@@ -8,7 +8,7 @@ body{
   margin:3;
 }
 h1{
-  font-family: 'Roboto', sans-serif;
+ font-family: 'Merriweather', serif;
   color:  cadetblue; 
   font-weight: bolder;
   font-size: 2em;
@@ -27,7 +27,7 @@ p{
  
 }
 div{
-  font-family: 'times', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: darkblue;
 }
 ul{
@@ -38,5 +38,6 @@ ul{
 }
 a{
   color: darkorange;
+  font-family: 'Merriweather', serif;
   font-weight: bolder;
 }

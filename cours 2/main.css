@@ -1,0 +1,42 @@
+/* style.css */
+
+body{
+  background: #fff;
+  color: grey; 
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin:0;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  color:  cadetblue; 
+  font-weight: bolder;
+  font-size: 2em;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: skyblue;
+  font-weight: lighter;
+  font-size: 1.5em;
+}
+
+p{
+  color: palevioletred;
+  font-size: 20px;
+ 
+}
+div{
+  font-family: 'times', sans-serif;
+  color: darkblue;
+}
+ul{
+  color:darkblue;
+  font-family: roboto, revert;
+  width: 170px;
+  border: 3px solid black;
+}
+a{
+  color: darkorange;
+  font-weight: bolder;
+}
